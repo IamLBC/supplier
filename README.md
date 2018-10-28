@@ -1,5 +1,5 @@
 # supplier
-
+> vue cli3.0 create：vuex event-bus  element-ui router scss eslint echarts 
 ## Project setup
 ```
 npm install
